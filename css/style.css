@@ -804,8 +804,9 @@ li{
 	background: url("../img/carbonblack.jpg");
 	border: 5px solid gray;
 	max-width: 500px;
-	min-width: 100%;
+	min-width: 75%;
 	min-height: 400px;
+	margin: 0 auto;
 }
 .title-categories{
 	border-bottom: 3px solid orangered;
